@@ -1,0 +1,6 @@
+#triangle {
+    fill:yellow;
+    stroke:black;
+    stroke-width:2;
+    fill-rule:nonzero
+}
